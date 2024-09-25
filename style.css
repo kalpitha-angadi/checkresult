@@ -1,0 +1,17 @@
+
+     body{
+        background-color: aqua;
+        text-align: center;
+        display: block;
+        align-items: center;
+        padding: 5px ;
+    }
+    button{
+        margin-top: 10px ;
+    }
+    h1{
+        color: gray;
+    }
+    img{
+    filter: drop-shadow(10px 4px 2px grey);
+    }
